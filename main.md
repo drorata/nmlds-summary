@@ -114,6 +114,13 @@ DL using [Keras](https://keras.io/)
 
 * Jeff Fletcher
 
+----
+
+* excellent introduction
+* most common errors and gotchas (memory management etc.)
+* try it: [jupyter notebooks](https://github.com/fletchjeff/ml_at_scale)
+* or ask us for the slides
+
 ---
 
 ## To be explored
